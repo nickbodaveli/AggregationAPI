@@ -1,0 +1,96 @@
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\AggregationAPI.exe
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\AggregationAPI.deps.json
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\AggregationAPI.runtimeconfig.json
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\AggregationAPI.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\AggregationAPI.pdb
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.csproj.AssemblyReference.cache
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.AssemblyInfoInputs.cache
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.AssemblyInfo.cs
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.csproj.CoreCompileInputs.cache
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\scopedcss\bundle\AggregationAPI.styles.css
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.csproj.CopyComplete
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\refint\AggregationAPI.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.pdb
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\AggregationAPI.genruntimeconfig.cache
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\obj\Debug\net6.0\ref\AggregationAPI.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\E P A M\source\repos\AggregationAPI\AggregationAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\AggregationAPI.exe
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\AggregationAPI.deps.json
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\AggregationAPI.runtimeconfig.json
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\AggregationAPI.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\AggregationAPI.pdb
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.csproj.AssemblyReference.cache
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.AssemblyInfoInputs.cache
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.AssemblyInfo.cs
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\scopedcss\bundle\AggregationAPI.styles.css
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.csproj.CopyComplete
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\refint\AggregationAPI.dll
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.pdb
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\AggregationAPI.genruntimeconfig.cache
+C:\Users\Linton\Desktop\Aggregation\AggregationAPI\obj\Debug\net6.0\ref\AggregationAPI.dll
